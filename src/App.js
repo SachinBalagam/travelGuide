@@ -1,6 +1,7 @@
 import './App.css'
+import TravelGuide from './travelGuide/index'
 
 // Replace your code here
-const App = () => <div>Hello World!</div>
+const App = () => <TravelGuide />
 
 export default App
